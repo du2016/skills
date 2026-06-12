@@ -1,0 +1,3 @@
+interface:
+  display_name: "周会协作助手"
+  short_description: "自动执行周会文档初始化+会议室预约并默认添加参会人"
